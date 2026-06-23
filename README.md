@@ -4,6 +4,8 @@
 
 Este projeto tem como objetivo analisar os acidentes registrados pela Polícia Rodoviária Federal (PRF) para identificar padrões relacionados à frequência, localização, causas e gravidade dos acidentes nas rodovias federais brasileiras.
 
+Dataset : https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
+
 A análise foi desenvolvida utilizando Python para tratamento e exploração dos dados e Power BI para construção de um dashboard executivo.
 
 ---
